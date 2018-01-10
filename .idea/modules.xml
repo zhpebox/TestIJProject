@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ScanMybatisSource/ScanMybatisSource.iml" filepath="$PROJECT_DIR$/ScanMybatisSource/ScanMybatisSource.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestIJProject.iml" filepath="$PROJECT_DIR$/TestIJProject.iml" />
+    </modules>
+  </component>
+</project>
